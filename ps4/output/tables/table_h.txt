@@ -1,0 +1,178 @@
+Regression Table Question H		
+		(1)
+		Divorces per 1000 people
+VARIABLES	LABELS	1956-1998
+		
+2.state	Two letter state code = 2, AL	-0.756***
+		(0.0666)
+3.state	Two letter state code = 3, AR	-0.553***
+		(0.146)
+4.state	Two letter state code = 4, AZ	0.536***
+		(0.0755)
+5.state	Two letter state code = 5, CA	-1.288***
+		(0.0621)
+6.state	Two letter state code = 6, CO	-0.956***
+		(0.0666)
+7.state	Two letter state code = 7, CT	-3.267***
+		(0.0755)
+8.state	Two letter state code = 8, DC	-2.372***
+		(0.146)
+9.state	Two letter state code = 9, DE	-2.621***
+		(0.146)
+10.state	Two letter state code = 10, FL	-0.0560
+		(0.0666)
+11.state	Two letter state code = 11, GA	-1.582***
+		(0.0755)
+12.state	Two letter state code = 12, HI	-2.337***
+		(0.0755)
+13.state	Two letter state code = 13, IA	-3.055***
+		(0.0621)
+14.state	Two letter state code = 14, ID	-0.595***
+		(0.0666)
+15.state	Two letter state code = 15, IL	-2.506***
+		(0.149)
+16.state	Two letter state code = 16, IN	-0.954***
+		(0.0748)
+17.state	Two letter state code = 17, KS	-1.878***
+		(0.0577)
+18.state	Two letter state code = 18, KY	-2.367***
+		(0.0674)
+19.state	Two letter state code = 19, LA	-3.515***
+		(0.181)
+20.state	Two letter state code = 20, MA	-3.650***
+		(0.0836)
+21.state	Two letter state code = 21, MD	-3.036***
+		(0.146)
+22.state	Two letter state code = 22, ME	-2.018***
+		(0.0755)
+23.state	Two letter state code = 23, MI	-2.381***
+		(0.0710)
+24.state	Two letter state code = 24, MN	-3.374***
+		(0.0799)
+25.state	Two letter state code = 25, MO	-1.781***
+		(0.146)
+26.state	Two letter state code = 26, MS	-2.000***
+		(0.146)
+27.state	Two letter state code = 27, MT	-1.387***
+		(0.0843)
+28.state	Two letter state code = 28, NC	-2.648***
+		(0.149)
+29.state	Two letter state code = 29, ND	-3.735***
+		(0.0666)
+30.state	Two letter state code = 30, NE	-3.036***
+		(0.0710)
+31.state	Two letter state code = 31, NH	-2.135***
+		(0.0666)
+32.state	Two letter state code = 32, NJ	-3.718***
+		(0.146)
+33.state	Two letter state code = 33, NM	-0.517***
+		(0.0739)
+34.state	Two letter state code = 34, NV	15.36***
+		(0.0755)
+35.state	Two letter state code = 35, NY	-3.864***
+		(0.149)
+36.state	Two letter state code = 36, OH	-2.042***
+		(0.146)
+37.state	Two letter state code = 37, OK	0.603***
+		(0)
+38.state	Two letter state code = 38, OR	-0.949***
+		(0.0755)
+39.state	Two letter state code = 39, PA	-3.600***
+		(0.146)
+40.state	Two letter state code = 40, RI	-3.518***
+		(0.0888)
+41.state	Two letter state code = 41, SC	-3.233***
+		(0.146)
+42.state	Two letter state code = 42, SD	-3.405***
+		(0.129)
+43.state	Two letter state code = 43, TN	-1.242***
+		(0.146)
+44.state	Two letter state code = 44, TX	-0.825***
+		(0.0799)
+45.state	Two letter state code = 45, UT	-1.948***
+		(0.146)
+46.state	Two letter state code = 46, VA	-2.778***
+		(0.146)
+47.state	Two letter state code = 47, VT	-2.969***
+		(0.146)
+48.state	Two letter state code = 48, WA	-0.621***
+		(0.0755)
+49.state	Two letter state code = 49, WI	-3.533***
+		(0.146)
+50.state	Two letter state code = 50, WV	-2.309***
+		(0.149)
+51.state	Two letter state code = 51, WY	0.0174
+		(0.0932)
+1957.year	Year of observation = 1957	-0.0148
+		(0.0499)
+1958.year	Year of observation = 1958	-0.123**
+		(0.0559)
+1959.year	Year of observation = 1959	-0.0247
+		(0.0610)
+1960.year	Year of observation = 1960	-0.0453
+		(0.0737)
+1961.year	Year of observation = 1961	0.0158
+		(0.0799)
+1962.year	Year of observation = 1962	-0.0226
+		(0.0631)
+1963.year	Year of observation = 1963	0.0231
+		(0.0615)
+1964.year	Year of observation = 1964	0.0924
+		(0.0630)
+1965.year	Year of observation = 1965	0.215**
+		(0.0846)
+1966.year	Year of observation = 1966	0.285***
+		(0.0898)
+1967.year	Year of observation = 1967	0.370***
+		(0.0863)
+1968.year	Year of observation = 1968	0.668***
+		(0.0891)
+1969.year	Year of observation = 1969	0.900***
+		(0.0878)
+1970.year	Year of observation = 1970	1.198***
+		(0.157)
+1971.year	Year of observation = 1971	1.429***
+		(0.120)
+1972.year	Year of observation = 1972	1.745***
+		(0.118)
+1973.year	Year of observation = 1973	2.018***
+		(0.123)
+1974.year	Year of observation = 1974	2.273***
+		(0.138)
+1975.year	Year of observation = 1975	2.493***
+		(0.145)
+1976.year	Year of observation = 1976	2.625***
+		(0.132)
+1977.year	Year of observation = 1977	2.595***
+		(0.132)
+1978.year	Year of observation = 1978	2.728***
+		(0.144)
+1979.year	Year of observation = 1979	2.896***
+		(0.150)
+1980.year	Year of observation = 1980	2.873***
+		(0.165)
+1981.year	Year of observation = 1981	2.891***
+		(0.151)
+1982.year	Year of observation = 1982	2.674***
+		(0.145)
+1983.year	Year of observation = 1983	2.591***
+		(0.155)
+1984.year	Year of observation = 1984	2.560***
+		(0.146)
+1985.year	Year of observation = 1985	2.600***
+		(0.169)
+1986.year	Year of observation = 1986	2.504***
+		(0.171)
+1987.year	Year of observation = 1987	2.429***
+		(0.183)
+1988.year	Year of observation = 1988	2.338***
+		(0.182)
+imp_unilateral	State already introduced unilateral divorce laws	-0.0299
+		(0.146)
+Constant	Constant	4.457***
+		(0.133)
+		
+Observations		1,631
+R-squared		0.934
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

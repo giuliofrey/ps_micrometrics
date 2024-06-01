@@ -1,0 +1,14 @@
+Regression Table Question E				
+		(1)	(2)	(3)
+		Divorces per 1000 people	Divorces per 1000 people	Divorces per 1000 people
+VARIABLES	LABELS	1956-1998	1956-1998	1956-1998
+				
+imp_unilateral	State already introduced unilateral divorce laws	-0.0548	0.477**	0.334**
+		(0.151)	(0.202)	(0.151)
+Constant	Constant	4.538***	2.727***	1.207***
+		(0.0728)	(0.276)	(0.189)
+				
+Observations		1,631	1,631	1,631
+R-squared		0.930	0.974	0.984
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

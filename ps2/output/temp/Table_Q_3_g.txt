@@ -1,0 +1,17 @@
+		(1)	(2)
+		IV	IV
+VARIABLES	LABELS	Health	Health
+			
+Education	Years of Education	0.0115***	0.00690***
+		(0.00268)	(0.00185)
+			
+Observations		483,702	495,760
+Controls		YES	YES
+Year of Birth FEs		YES	YES
+State FEs		NO	YES
+Instrument		Year Quarter FEs	State Quarter FEs
+Mean Y		0.982	0.982
+Mean X		12.44	12.44
+F-Statistic IVs		7.672	3.205
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

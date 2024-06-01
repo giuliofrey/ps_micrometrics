@@ -1,0 +1,98 @@
+--------------------------------------------------
+      name:  <unnamed>
+       log:  /mnt/data/Uni/2024/Micrometrics/probl
+> em_set/ps4/output//tables/table_g.log
+  log type:  text
+ opened on:   7 May 2024, 11:26:18
+
+. twowayfeweights Y state year D, type(feTR)
+
+Under the common trends assumption,
+the TWFE coefficient beta, equal to 0.0543, estima
+> tes a weighted sum of 3 ATTs. 
+2 ATTs receive a positive weight, and 1 receive a 
+> negative weight.
+------------------------------------------------
+Treat. var: D           # ATTs      Σ weights  
+------------------------------------------------
+Positive weights        2           2.2000      
+Negative weights        1           -0.5000     
+------------------------------------------------
+Total                   3           1.7000      
+------------------------------------------------
+
+
+The development of this package was funded by the 
+> European Union (ERC, REALLYCREDIBLE,GA N°1010438
+> 99).
+
+. twowayfeweights Y2 state year D, type(feTR)
+
+Under the common trends assumption,
+the TWFE coefficient beta, equal to -0.0975, estim
+> ates a weighted sum of 3 ATTs. 
+2 ATTs receive a positive weight, and 1 receive a 
+> negative weight.
+------------------------------------------------
+Treat. var: D           # ATTs      Σ weights  
+------------------------------------------------
+Positive weights        2           2.2000      
+Negative weights        1           -0.5000     
+------------------------------------------------
+Total                   3           1.7000      
+------------------------------------------------
+
+
+The development of this package was funded by the 
+> European Union (ERC, REALLYCREDIBLE,GA N°1010438
+> 99).
+
+. twowayfeweights Y3 state year D, type(feTR)
+
+Under the common trends assumption,
+the TWFE coefficient beta, equal to -0.1616, estim
+> ates a weighted sum of 3 ATTs. 
+2 ATTs receive a positive weight, and 1 receive a 
+> negative weight.
+------------------------------------------------
+Treat. var: D           # ATTs      Σ weights  
+------------------------------------------------
+Positive weights        2           2.2000      
+Negative weights        1           -0.5000     
+------------------------------------------------
+Total                   3           1.7000      
+------------------------------------------------
+
+
+The development of this package was funded by the 
+> European Union (ERC, REALLYCREDIBLE,GA N°1010438
+> 99).
+
+. twowayfeweights Y4 state year D, type(feTR)
+
+Under the common trends assumption,
+the TWFE coefficient beta, equal to -0.1957, estim
+> ates a weighted sum of 3 ATTs. 
+2 ATTs receive a positive weight, and 1 receive a 
+> negative weight.
+------------------------------------------------
+Treat. var: D           # ATTs      Σ weights  
+------------------------------------------------
+Positive weights        2           2.2000      
+Negative weights        1           -0.5000     
+------------------------------------------------
+Total                   3           1.7000      
+------------------------------------------------
+
+
+The development of this package was funded by the 
+> European Union (ERC, REALLYCREDIBLE,GA N°1010438
+> 99).
+
+. log close
+      name:  <unnamed>
+       log:  /mnt/data/Uni/2024/Micrometrics/probl
+> em_set/ps4/output//tables/table_g.log
+  log type:  text
+ closed on:   7 May 2024, 11:26:19
+--------------------------------------------------

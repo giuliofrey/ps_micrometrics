@@ -1,0 +1,32 @@
+Regression Table Question C					
+		(1)	(2)	(3)	(4)
+		Divorces per 1000 people	Divorces per 1000 people	Divorces per 1000 people	
+VARIABLES	LABELS	1956-1998	1956-1998	1956-1998	esample() from _estimates hold
+					
+1.post	post = 1			2.126***	
+				(0.431)	
+1.unilateral	unilateral = 1			1.706***	
+				(0.412)	
+0b.post#0b.unilateral				0	
+				(0)	
+0b.post#1o.unilateral				0	
+				(0)	
+1o.post#0b.unilateral				0	
+				(0)	
+1.post#1.unilateral				-0.00501	
+				(0.570)	
+post_unilateral	post_unilateral	1.701***	-0.00501		
+		(0.390)	(0.570)		
+post	post	1.385***	2.126***		2.183**
+		(0.423)	(0.431)		(0.841)
+unilateral	unilateral		1.706***		1.983**
+			(0.412)		(0.832)
+_diff	Diff-in-diff				-0.434
+					(1.162)
+Constant	Constant	2.874***	2.133***	2.133***	2.432***
+		(0.314)	(0.323)	(0.323)	(0.602)
+					
+Observations		82	82	82	82
+R-squared		0.437	0.532	0.532	0.209
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

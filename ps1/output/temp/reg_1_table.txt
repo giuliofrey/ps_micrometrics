@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	re78
+	
+train	1.794***
+	(0.671)
+Constant	4.555***
+	(0.340)
+	
+Observations	445
+R-squared	0.018
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

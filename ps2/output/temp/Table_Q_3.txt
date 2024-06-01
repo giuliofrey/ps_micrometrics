@@ -1,0 +1,24 @@
+		(1)	(2)	(3)	(4)	(5)
+		OLS	First Stage	Reduced Form	IV	First Stage
+VARIABLES	LABELS	Health	Years of Education	Health	Health	Years of Education
+						
+Quarter1	Quarter 1		-0.165***	-0.00177***		-0.170***
+			(0.0138)	(0.000537)		(0.0141)
+Quarter2	Quarter 2		-0.122***	-0.00150***		-0.120***
+			(0.0139)	(0.000538)		(0.0142)
+Quarter3	Quarter 3		-0.0353***	1.19e-05		-0.0318**
+			(0.0135)	(0.000517)		(0.0138)
+Education	Years of Education	0.00459***			0.0122***	
+		(8.38e-05)			(0.00290)	
+Constant	Constant		13.19***			
+			(0.0236)			
+						
+Observations		496,790	496,790	496,790	496,790	496,790
+R-squared		0.031		0.018	-0.007	0.000
+Controls		YES	YES	YES	YES	YES
+Year of Birth FEs		YES	YES	YES	YES	YES
+Mean Y		0.982		0.982	0.982	0.982
+Mean X		12.44	12.44	12.44	12.44	12.44
+F-Statistic IVs			61.05		61.05	62.16
+Robust standard errors in parentheses						
+*** p<0.01, ** p<0.05, * p<0.1						
